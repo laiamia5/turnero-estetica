@@ -12,7 +12,7 @@ en el sistema web de gestión de la estética.
 - Mercado Pago.
 
 ## Diagrama BPMN
-[Incorporar aquí el diagrama BPMN correspondiente].
+![Diagrama BPMN del proceso de registro y reserva](proceso-registro-y-reserva.png)
 
 ## Observaciones
 La documentación se encuentra en proceso de elaboración.
