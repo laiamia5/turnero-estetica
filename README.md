@@ -1,7 +1,7 @@
 # Sistema de Gestión de Turnos para Estética
 Sistema web de gestión y autogestión de turnos para una estética.
 
-## 1. Descripción del proyecto
+## Descripción del proyecto
 
 Sistema web de gestión y autogestión de turnos para una estética, que permite a los clientes registrarse, consultar servicios disponibles, seleccionar horarios y reservar citas mediante el pago de una seña.
 
